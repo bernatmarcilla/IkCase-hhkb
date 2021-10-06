@@ -14,6 +14,8 @@ The goal of this project is to offer a stacked acrylic alternative to the origin
 
 - **Bottom row - Fixed Layout**: 1U left Super, 1.5U left Alt, 6.25U space bar, 1.5U right Alt, 1U right Super. 
 
+![IkCase-hhkb](./Renders/3.png)
+
 ---
 
 ## Acrilic Layers
@@ -32,3 +34,5 @@ The case is made with 5 layers of acrylic that are stacked on top of each other 
 
 ---
 ## Final Prototype
+
+![IkCase-hhkb](./Renders/4.png)
