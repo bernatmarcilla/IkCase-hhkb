@@ -5,6 +5,8 @@ _An original hhkb layout Acrylic Case_
 
 _Stacked Acrylic Case for original Happy Hacking Keyboard layout compatible with standard 60% PCBs_
 
+![IkCase-hhkb](./Renders/1.png)
+
 The goal of this project is to offer a stacked acrylic alternative to the original Hhkb case. This alternative has some measurements modifications to get the best fit between the PCB and the case.
 
 
