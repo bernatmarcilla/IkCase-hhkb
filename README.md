@@ -3,7 +3,7 @@
 
 _An original HHKB layout Acrylic Case_
 
-_Stacked Acrylic Case for original Happy Hacking Keyboard layout compatible with standard 60% PCBs_
+_Stacked Acrylic Case for original Happy Hacking Keyboard layout, compatible with standard 60% PCBs_
 
 ![IkCase-hhkb](./Renders/1.png)
 
