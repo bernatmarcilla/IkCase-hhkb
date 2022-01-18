@@ -22,7 +22,8 @@ The goal of this project is to offer a stacked acrylic alternative to the origin
 
 ## Acrilic Layers
 
-The case is made with 5 layers of acrylic that are stacked on top of each other and held together with 8 **M3** screws. Note that this case has been developed for a PCB that has the **USB underneath of the PCB**. This case **won't fit with a PCB that has the USB on top**. 
+The case is made with 5 layers of acrylic that are stacked on top of each other and held together with 8 **M3** screws (screw holes are 3mm diameter). 
+Note that this case has been developed for a PCB that has the **USB underneath of the PCB**. This case **won't fit with a PCB that has the USB on top**. 
 
 - **L6**: The top piece of the case. The ideal thickness is 4mm (4 millimetres). 
 
@@ -30,9 +31,9 @@ The case is made with 5 layers of acrylic that are stacked on top of each other 
 
 - **L4-plate-hhkb**: This is the switchplate of the keyboard. Will hold the switches and the ideal thickness is 5mm (5 millimetres). 
 
-- **L1_L2_L3**: this piece is placed between the plate and the base piece to offer space to the PCB. 
+- **L1_L2_L3**: This piece is placed between the plate and the base piece to offer space to the PCB and the ideal thickness is 5mm (5 millimetres). 
 
-- **L0**: The bottom piece that closes the case. Like **L1_L2_L3** piece, has the USB port exit. 
+- **L0**: The bottom piece that closes the case. The ideal thickness is 3mm (3 millimetres). Like **L1_L2_L3** piece, has the USB port exit. 
 
 ---
 ## Final Prototype
