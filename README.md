@@ -1,6 +1,5 @@
 # IkCase-hhkb
 
-
 _An original HHKB layout Acrylic Case_
 
 _Stacked Acrylic Case for original Happy Hacking Keyboard layout, compatible with standard 60% PCBs_
